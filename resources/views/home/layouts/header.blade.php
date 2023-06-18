@@ -31,7 +31,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link {{ Request::is('kelas*') ? 'menu-active' : ''}}" href="/modul">Modul</a>
+            <a class="nav-link {{ Request::is('modul*') ? 'menu-active' : ''}}" href="/modul">Modul</a>
           </li>
 
           <li class="nav-item">
